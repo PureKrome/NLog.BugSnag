@@ -1,3 +1,7 @@
+# Archived - 10/04/2021
+
+---
+
 ![](http://nlog-project.org/images/NLog-logo-only_small.png) + ![](http://i.imgur.com/VA7NnER.png)
 
 Development: [![Build status](https://ci.appveyor.com/api/projects/status/uja836rggaxu6cs4?svg=true)](https://ci.appveyor.com/project/PureKrome/nlog-bugsnag-7n0wx)  
